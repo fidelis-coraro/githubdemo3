@@ -1,2 +1,2 @@
 created from gitbranch1git status
-i would like to include new line
+i would like to include new
